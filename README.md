@@ -1,4 +1,4 @@
-# 🏦 Bank System
+# 🏦 Bank Management System
 
 A console-based **Bank Management System** built in **C++**, simulating core banking operations such as client management, deposits, withdrawals, transfers, currency exchange, and user access control.
 
