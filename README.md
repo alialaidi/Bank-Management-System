@@ -129,15 +129,4 @@ Once launched, the system presents a main menu with the following options:
 - This is an educational project focused on practicing **OOP concepts in C++** (classes, inheritance, encapsulation) along with building a structured, menu-driven console application.
 - Data persistence method (e.g., text files) should be documented here once confirmed — update this section based on how `clsGlobal.h` / file handling is implemented.
 
----
 
-## 👤 Author
-
-**Ali Alaidi**
-[GitHub Profile](https://github.com/alialaidi)
-
----
-
-## 📄 License
-
-No license specified yet. Consider adding one (e.g., MIT) if you plan to share or accept contributions.
